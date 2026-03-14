@@ -3,8 +3,6 @@
 awesome-soc-analyst
 We just collected useful resources for SOC analysts and SOC analyst candidates.
 
-This repository is maintained by LetsDefend. Feel free to add new resources here.
-
 Table of Contents
 Books
 Malware Analysis
